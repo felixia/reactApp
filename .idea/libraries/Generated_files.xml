@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/build/bundle-compiled.js" />
+        <item url="file://$PROJECT_DIR$/webpack.config-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/components/Home-compiled.js" />
+        <item url="file://$PROJECT_DIR$/config-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/components/Videos-compiled.js" />
+        <item url="file://$PROJECT_DIR$/models/users-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/components/Login-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/components/SignUp-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/components/Nav-compiled.js" />
+        <item url="file://$PROJECT_DIR$/client/src/app-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/components/Home-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/withAuth-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/withAuth-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/AuthService-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/Callback-compiled.js" />
+      <root url="file://$PROJECT_DIR$/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/build/bundle-compiled.js" />
+      <root url="file://$PROJECT_DIR$/webpack.config-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/Home-compiled.js" />
+      <root url="file://$PROJECT_DIR$/config-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/Videos-compiled.js" />
+      <root url="file://$PROJECT_DIR$/models/users-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/Login-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/SignUp-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/components/Nav-compiled.js" />
+      <root url="file://$PROJECT_DIR$/client/src/app-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
